@@ -2,8 +2,8 @@
 
 ### Funcionamiento
 ![](https://github.com/IDiegoUlises/Esp32-Access-Point-Para-Web-Server/blob/main/Images/Esp32-AP-Web-Server.gif)
-* Crea una red Wifi
-* Crea una web server dentro de la red Wifi 
+* Se crea una red Wifi
+* Se crea una web server dentro de la red Wifi 
 * Se realiza una conexion mediante el navegador
 
 ### Codigo
