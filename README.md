@@ -5,7 +5,7 @@
 #include <WiFi.h>
 
 //La red Wifi que se creara
-const char* ssid     = "ESP32-Access-Point";
+const char* ssid     = "ESP32-Wifi";
 const char* password = "123456789";
 
 //Establece la web server en el puerto 80
