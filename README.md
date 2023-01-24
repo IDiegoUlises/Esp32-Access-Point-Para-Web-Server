@@ -146,3 +146,5 @@ void loop() {
   }
 }
 ```
+### Debug
+<img src="https://github.com/IDiegoUlises/Esp32-Access-Point-Para-Web-Server/blob/main/Images/Puerto-Serial.png" />
